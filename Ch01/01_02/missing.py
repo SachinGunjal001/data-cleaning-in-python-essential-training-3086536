@@ -12,4 +12,4 @@ df['amount'].astype('Int32')
 df.isnull()
 
 # %%
-df.isnull().any(axis=1)
+
